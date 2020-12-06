@@ -1,6 +1,5 @@
 # InstaBot
 Instagram Bot
 
-
-for using this u have to install selenium and driver from 
+install selenium
 https://selenium-python.readthedocs.io/
